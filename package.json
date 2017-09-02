@@ -1,0 +1,21 @@
+
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.15.4",
+    "express-generator": "^4.15.0",
+    "mongoose": "*"
+  },
+  "author": "Gayan Sampath",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "description": ""
+}
